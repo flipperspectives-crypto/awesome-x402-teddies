@@ -24,7 +24,7 @@ x402-enabled APIs your agent can call right now. All support Base L2 and/or Sola
 | Service | Category | Price/call | Networks | Free Trial |
 |---|---|---|---|---|
 | [AgentGate](https://x402.agentsea.vn) | Web scraping, Prompt guard, Domain intel, AEO audit | $0.001–$0.05 | Base L2, Solana | 8 calls |
-| [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) | Research report + chat inference | $0.001–$2 | Base L2 | Discovery free |
+| [Clarity](https://flipperspectives-crypto.github.io/clarity-docs/) | Research report + chat inference | $0.001–$2 | Base L2 | Discovery free |
 | [Add yours →](https://github.com/teddiesloco/agentgate-x402/edit/main/packages/awesome-x402/README.md) | | | | |
 
 ### AgentGate
@@ -42,7 +42,7 @@ Infrastructure-layer gateway for AI agents. When your primary scraper hits 429/4
 Base mainnet x402 paid inference gateway (local Ollama). Free discovery; external Base USDC payers only.
 
 - **Endpoints:** `POST /v1/x402/chat/completions` ($0.001), `POST /v1/x402/report` ($2)
-- **Discovery:** [`/.well-known/x402`](https://desktop-o99r0sf.tail935fba.ts.net/.well-known/x402), [agent-tools card](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899)
+- **Discovery:** [`/.well-known/x402`](https://desktop-o99r0sf.tail935fba.ts.net/.well-known/x402), [docs](https://flipperspectives-crypto.github.io/clarity-docs/)
 - **Networks:** Base L2 USDC
 
 ---
